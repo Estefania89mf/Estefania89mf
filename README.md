@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EstefaniaMf/EstefaniaMf/main/assets/banner1.jpg" width="350"/>
+</p>
+
+
 <h1 align="center">🚀 ¡Hola, soy Estefanía! 🚀</h1>
 <p align="center">
   Desarrolladora Full-Stack | Apasionada por la web | Aprendiendo Angular & Symfony
